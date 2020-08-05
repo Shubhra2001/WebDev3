@@ -1,0 +1,96 @@
+div.container-fluid.one {
+    background: url("https://images.squarespace-cdn.com/content/v1/5a46a74c9f8dce429fa90fd8/1547683437111-UB2MCAUIKNZRXY554Y0D/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/background-2462431_1920.jpg?format=2500w");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+    height: 550px;
+}
+
+div.container.two {
+	padding-bottom: 20px;
+	font-family: 'Rokkitt', serif;
+}
+
+h3.firstheading {
+	text-align: center;
+	padding: 20px;
+	padding-top: 40px;
+	font-size: 5rem;
+	font-weight: 600;
+	font-family: 'Recursive', sans-serif;
+}
+
+p.firstp {
+	text-align: center;
+	padding: 10px;
+	font-size: 30px;
+	font-family: 'Andada', serif;
+}
+
+div.container-fluid.subone {
+	background: url("https://i1.wp.com/practomind.com/wp-content/uploads/2016/02/grundy-designs-background-smaller.jpg?fit=1708%2C1477");
+	position: relative;
+	bottom: 300px;
+}
+
+div.container-fluid.subtwo {
+	background: url("https://fonolo.com/wp-content/uploads/2014/05/6.jpg");
+	position: relative;
+	bottom: 300px;
+}
+
+div.colone {
+	padding-right: 0;
+}
+
+div.coltwo {
+	padding-left: 0;
+}
+
+div.infoimg {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+h4.headone {
+	text-align: center;
+	font-family: 'Andada', serif;
+	padding-top: 20px;
+	font-size: 45px;
+}
+
+h4.headtwo {
+	text-align: center;
+	font-family: 'Andada', serif;
+	padding-top: 20px;
+	font-size: 45px;
+	color: purple;
+}
+
+h5.extra {
+	text-align: center;
+	font-size: 30px;
+	padding: 15px;
+}
+
+p.info1 {
+	text-align: center;
+	font-size: 20px;
+	padding: 15px;
+}
+
+p.info2 {
+	text-align: center;
+	font-size: 20px;
+	padding: 15px;
+}
+
+ul {
+	font-size: 20px;
+	font-weight: 600;
+	padding-left: 120px;
+}
+
+div.btnone {
+	padding-bottom: 20px;
+}
