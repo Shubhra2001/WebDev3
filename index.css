@@ -94,3 +94,34 @@ ul {
 div.btnone {
 	padding-bottom: 20px;
 }
+
+.mwl {
+font-family: 'Merienda', cursive;
+}
+
+.ks {
+font-family: 'Oregano', cursive;
+font-size:18px;
+}
+
+.ks a{
+text-transform: none !important;
+color: red;
+font-size: 15px;
+}
+
+span.end2 {
+	float: right;
+	padding-right: 50px;
+	font-size: 13px;
+}
+
+span#endname {
+	color: red;
+}
+
+span.end1 {
+	font-family: 'Roboto Slab', serif;
+	padding-left: 15px;
+	font-size: 13px;
+}
